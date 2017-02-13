@@ -1,7 +1,7 @@
 # AndroidMvpStarter [![Build Status](https://travis-ci.org/ravidsrk/android-mvp-starter.svg?branch=master)](https://travis-ci.org/ravidsrk/android-mvp-starter)
 
 
-An MVP Boilerplate to save me having to create the same project over from scratch every time! :)
+An MVP Boilerplate to save time creating the same project over and over again thanks to Ravindra Kumar.
 
 ## This project uses:
 - [RxJava2](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
